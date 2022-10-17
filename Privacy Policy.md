@@ -1,6 +1,10 @@
 > Privacy Policy
 - Database 
 
-Space Giveaway database is not accessible to anyone. 
+KASEO database is not accessible to anyone. 
+
+- Message
+
+When you open a ticket with KASEO, you or the authorities can back up the messages on the channel.
 
 🌐 Space Giveaway always cares about privacy! 

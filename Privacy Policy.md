@@ -7,4 +7,4 @@ KASEO database is not accessible to anyone.
 
 When you open a ticket with KASEO, you or the authorities can back up the messages on the channel.
 
-🌐 Space Giveaway always cares about privacy! 
+🌐 KASEO always cares about privacy! 

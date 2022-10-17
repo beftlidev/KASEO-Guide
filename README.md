@@ -1,5 +1,5 @@
-# Space-Giveaway-Guide
-Want to add style to your server with Space Giveaway? 
-> [Invite](https://discord.com/oauth2/authorize?client_id=765207268408033322&scope=bot+applications.commands&permissions=2147483656)
+# KASEO-Guide
+Want to add style to your server with KASEO? 
+> [Invite](https://discord.com/oauth2/authorize?client_id=725314668570083388&scope=bot+applications.commands&permissions=2147483656)
 
-> [Support Server](https://discord.gg/KZfAEjrPUF) 
+> [Support Server](https://discord.gg/T77NKjWdxA) 
